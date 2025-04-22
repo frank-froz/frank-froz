@@ -80,8 +80,7 @@
   - HTML, CSS, PHP, Laravel  
   - SQL & NoSQL Databases  
   - Data Structures & Algorithms  
-  - Power BI & Excel  
-  - Arduino, IoT (sensors, Bluetooth, MQTT, cloud platforms like Temboo & ThingSpeak)
+  - Power BI & Excel
 
 ---
 

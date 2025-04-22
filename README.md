@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋, I'm Franklin Huaytalla | Software Development Student</h1>
-<h3 align="center">Passionate about learning, coding and creating useful things</h3>
+<h1 align="center">Hi 👋, I'm Franklin Huaytalla </h1>
+<h3 align="center"> Software Development Student  | Passionate about learning, coding and creating useful things</h3>
+
+---
+<br>
 
 <img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmMyN2JoMGtlNHphZWdqemlzdml2c2k2dTcyZW40YWw1NzU2dW9ldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" alt="Unicorn developer" />
 
----
 
-### 👨‍🎓 About Me
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl3aGtueG4xbmh5cjJ3dXk4aXNxZXJsZjZnaTBkMThpbmxubGU1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TOSI9IqgQzzrDecyCD/giphy.gif" width="30px">&nbsp;***About me***
+
 
 - 🎓 I’m currently in the **4th semester** of my **Software Design and Development** degree.  
 - 🧠 I have **basic to intermediate knowledge** of programming languages and technologies, acquired through academic training and hands-on projects.
 - 💻 Interested in **web development**, **mobile apps**, and **emerging technologies**.
 - 💬 I enjoy sharing what I learn and continuously improving my skills.
-- 🎮 In my free time, I enjoy 100%-completing games and coding late at night with coffee ☕.
+- 🎮 In my free time, I enjoy 100%-completing games and coding late at night.
 
 ---
 
@@ -36,6 +40,13 @@
 
 - **Mobile:**  
   - Basic **Android development with Kotlin**, focusing on layouts and object-oriented programming
+
+---
+
+### 🚀 Featured Projects
+
+- 🎯 [KaiMaki](https://github.com/Hector-Perez-Vengoa/KaiMaki) – A marketplace platform connecting clients with independent workers. Built with PHP, CSS, JavaScript
+
 
 ---
 

@@ -24,7 +24,6 @@
 - 🗃️ Databases: **SQL** and **MongoDB**
 - 📊 Basics of **Power BI** and **Excel**
 - ⚙️ Data structures & algorithms (Python + Jupyter Notebooks)
-- 🌐 Experience with Git, version control, Maven, Scrum methodology, and automated testing
 
 #### 🚀 Learning Focus
 

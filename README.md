@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franklin Huaytalla </h1>
 <h3 align="center"> Software Development Student  | Passionate about learning, coding and creating useful things</h3>
 
----
-<br>
 
 <img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmMyN2JoMGtlNHphZWdqemlzdml2c2k2dTcyZW40YWw1NzU2dW9ldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" alt="Unicorn developer" />
 

@@ -43,7 +43,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🌟 Featured Projects
 
 - 🎯 [KaiMaki](https://github.com/Hector-Perez-Vengoa/KaiMaki) – A marketplace platform connecting clients with independent workers. Built with PHP, CSS, JavaScript
 

@@ -1,7 +1,6 @@
-<h1 align="center">Hola 👋, soy [Tu Nombre]</h1>
+<h1 align="center">Hola 👋, soy Franklin Huaytalla</h1>
 <h3 align="center">Desarrollador apasionado por la tecnología y el aprendizaje constante</h3>
 
-- 🔭 Actualmente trabajando en **[Tu proyecto actual]**
 - 🌱 Aprendiendo sobre **[Tecnología o tema actual]**
 - 👯 Buscando colaborar en **[Tipo de proyectos]**
 - 🤝 Abierto a ayudar en **[Temas que dominas]**
@@ -23,6 +22,6 @@
 
 ### 📈 Estadísticas
 
-![TuNombre GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)
+![TuNombre GitHub stats](https://github-readme-stats.vercel.app/api?username=frank-froz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank-froz&layout=compact&theme=radical)
 
